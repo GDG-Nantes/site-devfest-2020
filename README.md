@@ -33,21 +33,11 @@ For your first run and each time you modify a style or image, run:
 
 ```bash
 npm run build
+
+npm run build:images # to re-build only images
 ```
 
-or more precisely for images
-
-```bash
-npm run build:images
-```
-
-Just run
-
-```bash
-npm start
-```
-
-Or
+Then just run
 
 ```bash
 hugo server -D
