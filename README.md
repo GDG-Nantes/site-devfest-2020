@@ -80,18 +80,14 @@ The theme is in another Git repository <https://github.com/GDG-Nantes/devfest-th
 it's using [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules),
 so you need to handle this two repository.
 
-So this is an example of workflow:
+Here is the workflow in addition to the main one:
 
-- install last NodeJS, see [here](https://github.com/creationix/nvm)
 - go into the theme folder `./themes/devfest-theme-hugo/`
 - install dependencies with `npm install`
-- run `npm start` to launch automatically the build when a file change
-- (you still need to launch `hugo server` into the site folder)
-- HACK, HACK, HACK
-- then build an optimized version with `npm run build`
-- then create the PR (or push)
-- into the site folder, `git add themes/devfest-theme-hugo`
-- then create the PR (or push)
+- run `npm start` to watch the theme files
+- then push the theme's diffs
+- and then back in the site folder, `git add themes/devfest-theme-hugo`
+- then push the site's diffs
 
 ### Publish
 
