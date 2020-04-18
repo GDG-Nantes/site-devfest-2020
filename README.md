@@ -1,6 +1,7 @@
 # Site DevFest Nantes 2020
 
-![](https://github.com/GDG-Nantes/devfest2020/workflows/sandbox/badge.svg)
+[![Actions Status](https://github.com/GDG-Nantes/devfest2020/workflows/build/badge.svg)](https://github.com/GDG-Nantes/devfest2020/actions)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=GDG-Nantes/devfest2020)](https://dependabot.com)
 
 ## Requirement
 
@@ -28,7 +29,25 @@ git add themes/devfest-theme-hugo
 
 ## Run Local site
 
+For your first run and each time you modify a style or image, run:
+
+```bash
+npm run build
+```
+
+or more precisely for images
+
+```bash
+npm run build:images
+```
+
 Just run
+
+```bash
+npm start
+```
+
+Or
 
 ```bash
 hugo server -D
@@ -44,7 +63,7 @@ More information [here](https://gohugo.io/commands/hugo_server/)
 Just run
 
 ```bash
-hugo
+npm run build
 ```
 
 More information [here](https://gohugo.io/commands/hugo/)
