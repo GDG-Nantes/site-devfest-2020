@@ -6,7 +6,7 @@ menu:
    weight: 10
 
 horizontal: false
-draft: true
+draft: false
 
 ---
 
