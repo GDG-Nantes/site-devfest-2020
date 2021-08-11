@@ -8,7 +8,7 @@ companyLogo: /images/partners/eni.png
 photoUrl: https://avatars.githubusercontent.com/u/84006572?v=4
 socials:
   - icon: github
-    link: https://twitter.com/florentleveque
+    link: https://github.com/florentleveque
     name: florentleveque
 
 ---

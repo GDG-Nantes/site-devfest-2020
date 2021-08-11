@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@patoudss
     name: '@patoudss'
   - icon: github
-    link: https://twitter.com/patou
+    link: https://github.com/patou
     name: patou
 
 ---

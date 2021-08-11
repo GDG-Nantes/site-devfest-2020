@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@m4d_z
     name: '@m4d_z'
   - icon: github
-    link: https://twitter.com/m4dz
+    link: https://github.com/m4dz
     name: m4dz
 
 ---

@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@anthony_legoas
     name: '@anthony_legoas'
   - icon: github
-    link: https://twitter.com/@anthonylegoas
+    link: https://github.com/@anthonylegoas
     name: '@anthonylegoas'
 
 ---

@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@MartineauEmeric
     name: '@MartineauEmeric'
   - icon: github
-    link: https://twitter.com/bubulemaster
+    link: https://github.com/bubulemaster
     name: bubulemaster
 
 ---

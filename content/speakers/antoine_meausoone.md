@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/ameausoone
     name: ameausoone
   - icon: github
-    link: https://twitter.com/ameausoone
+    link: https://github.com/ameausoone
     name: ameausoone
 
 ---

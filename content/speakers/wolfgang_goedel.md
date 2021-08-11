@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@wgoedel
     name: '@wgoedel'
   - icon: github
-    link: https://twitter.com/wolfgangGoedel
+    link: https://github.com/wolfgangGoedel
     name: wolfgangGoedel
 
 ---

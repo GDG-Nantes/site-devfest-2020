@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@MathieuMure
     name: '@MathieuMure'
   - icon: github
-    link: https://twitter.com/mathieumure
+    link: https://github.com/mathieumure
     name: mathieumure
 
 ---

@@ -8,8 +8,8 @@ tags:
   - discovery
 complexity: Intermediate
 speakers:
-  - william_bartlett
   - geoffrey_graveaud
+  - william_bartlett
 draft: false
 
 ---

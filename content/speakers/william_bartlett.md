@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@bartlettstarman
     name: '@bartlettstarman'
   - icon: github
-    link: https://twitter.com/punkstarman
+    link: https://github.com/punkstarman
     name: punkstarman
 
 ---

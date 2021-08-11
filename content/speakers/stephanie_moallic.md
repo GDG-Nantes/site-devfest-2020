@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@Steffy_29
     name: '@Steffy_29'
   - icon: github
-    link: https://twitter.com/Steffy29
+    link: https://github.com/Steffy29
     name: Steffy29
 
 ---

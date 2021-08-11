@@ -8,8 +8,8 @@ tags:
   - mobile-iot
 complexity: Intermediate
 speakers:
-  - loic_ortola
   - antoine_lebel
+  - loic_ortola
   - francois_de_guibert
 draft: false
 

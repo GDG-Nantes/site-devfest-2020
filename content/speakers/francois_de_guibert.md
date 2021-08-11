@@ -10,7 +10,7 @@ photoUrl: >-
   https://lh5.googleusercontent.com/-Nqpr_4OFjXs/AAAAAAAAAAI/AAAAAAAAAIE/bZhIVXrf5dg/photo.jpg
 socials:
   - icon: github
-    link: https://twitter.com/f2guibert
+    link: https://github.com/f2guibert
     name: f2guibert
 
 ---

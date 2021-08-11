@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/charlyx
     name: charlyx
   - icon: github
-    link: https://twitter.com/charlyx
+    link: https://github.com/charlyx
     name: charlyx
 
 ---

@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@sebsto
     name: '@sebsto'
   - icon: github
-    link: https://twitter.com/sebsto
+    link: https://github.com/sebsto
     name: sebsto
 
 ---

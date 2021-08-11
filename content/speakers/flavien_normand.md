@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@Supamiu_
     name: '@Supamiu_'
   - icon: github
-    link: https://twitter.com/Supamiu
+    link: https://github.com/Supamiu
     name: Supamiu
 
 ---

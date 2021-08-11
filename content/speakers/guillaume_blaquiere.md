@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@gblaquiere
     name: '@gblaquiere'
   - icon: github
-    link: https://twitter.com/guillaumeblaquiere
+    link: https://github.com/guillaumeblaquiere
     name: guillaumeblaquiere
 
 ---

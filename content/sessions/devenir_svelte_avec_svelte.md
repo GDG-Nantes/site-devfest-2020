@@ -8,8 +8,8 @@ tags:
   - web
 complexity: Beginner
 speakers:
-  - anthony_le_goas
   - patrice_de_saint_steban
+  - anthony_le_goas
 draft: false
 
 ---

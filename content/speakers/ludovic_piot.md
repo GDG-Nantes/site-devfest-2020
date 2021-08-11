@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@lpiot
     name: '@lpiot'
   - icon: github
-    link: https://twitter.com/ludovicpiot
+    link: https://github.com/ludovicpiot
     name: ludovicpiot
 
 ---

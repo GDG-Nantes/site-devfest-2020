@@ -8,8 +8,8 @@ tags:
   - cloud-devops
 complexity: Intermediate
 speakers:
-  - julien_haumont
   - emeric_martineau
+  - julien_haumont
 draft: false
 
 ---

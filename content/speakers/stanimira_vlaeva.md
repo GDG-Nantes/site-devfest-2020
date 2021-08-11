@@ -10,10 +10,10 @@ photoUrl: https://avatars.githubusercontent.com/u/7893485?v=4
 socials:
   - icon: twitter
     link: https://twitter.com/StanimiraVlaeva
-    name: https://twitter.com/StanimiraVlaeva
+    name: StanimiraVlaeva
   - icon: github
-    link: https://twitter.com/https://github.com/sis0k0
-    name: https://github.com/sis0k0
+    link: https://github.com/sis0k0
+    name: sis0k0
 
 ---
 

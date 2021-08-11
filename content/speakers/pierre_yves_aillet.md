@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@pyaillet
     name: '@pyaillet'
   - icon: github
-    link: https://twitter.com/pyaillet
+    link: https://github.com/pyaillet
     name: pyaillet
 
 ---

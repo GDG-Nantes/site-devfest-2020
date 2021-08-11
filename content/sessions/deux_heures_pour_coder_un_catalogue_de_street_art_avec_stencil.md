@@ -8,8 +8,8 @@ tags:
   - web
 complexity: Beginner
 speakers:
-  - stephanie_moallic
   - horacio_gonzalez_
+  - stephanie_moallic
 draft: false
 
 ---

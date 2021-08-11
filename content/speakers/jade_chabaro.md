@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@jadechabaro
     name: '@jadechabaro'
   - icon: github
-    link: https://twitter.com/jadecdev
+    link: https://github.com/jadecdev
     name: jadecdev
 
 ---

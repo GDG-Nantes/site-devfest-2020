@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@eric_briand
     name: '@eric_briand'
   - icon: github
-    link: https://twitter.com/ebriand
+    link: https://github.com/ebriand
     name: ebriand
 
 ---

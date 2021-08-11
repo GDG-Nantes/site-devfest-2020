@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@JimmyKasprzak
     name: '@JimmyKasprzak'
   - icon: github
-    link: https://twitter.com/Orodan
+    link: https://github.com/Orodan
     name: Orodan
 
 ---

@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@chanksleroux
     name: '@chanksleroux'
   - icon: github
-    link: https://twitter.com/larousso
+    link: https://github.com/larousso
     name: larousso
 
 ---

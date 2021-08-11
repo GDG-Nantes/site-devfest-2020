@@ -8,8 +8,8 @@ tags:
   - discovery
 complexity: Beginner
 speakers:
-  - florent_leveque
   - herve_boisgontier
+  - florent_leveque
 draft: false
 
 ---

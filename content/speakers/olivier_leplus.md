@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@olivierleplus
     name: '@olivierleplus'
   - icon: github
-    link: https://twitter.com/tagazok
+    link: https://github.com/tagazok
     name: tagazok
 
 ---

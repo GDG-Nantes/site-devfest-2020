@@ -8,8 +8,8 @@ tags:
   - discovery
 complexity: Beginner
 speakers:
-  - gregory_lecygne
   - wolfgang_goedel
+  - gregory_lecygne
 draft: false
 
 ---

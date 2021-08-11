@@ -10,7 +10,7 @@ socials:
     link: https://twitter.com/ryarnyah
     name: ryarnyah
   - icon: github
-    link: https://twitter.com/ryarnyah
+    link: https://github.com/ryarnyah
     name: ryarnyah
 
 ---

@@ -84,7 +84,7 @@
         - slot: pause-3-day-1
           talk: __pause
         - slot: slot-4-day-1
-          talk: ___rust__un_choix_possible_?
+          talk: ___rust__un_choix_possible__
         - slot: pause-4-day-1
           talk: __pause
         - slot: slot-5-day-1
@@ -96,7 +96,7 @@
         - slot: pause-6-day-1
           talk: __pause
         - slot: slot-7-day-1
-          talk: developper_et_enseigner__une_bonne_idee_?
+          talk: developper_et_enseigner__une_bonne_idee__
     - room: room4
       slots:
         - slot: slot-1-day-1
@@ -161,7 +161,7 @@
         - slot: pause-1-day-2
           talk: __pause
         - slot: slot-2-day-2
-          talk: flutter_en_2021___est__le_moment_de_s_y_interesser_?
+          talk: flutter_en_2021___est__le_moment_de_s_y_interesser__
         - slot: pause-2-day-2
           talk: __pause
         - slot: slot-3-day-2
@@ -189,7 +189,7 @@
     - room: room2
       slots: 
         - slot: slot-1-day-2
-          talk: place_des_femmes_dans_le_numerique__comment_inverser_la_tendance_?
+          talk: place_des_femmes_dans_le_numerique__comment_inverser_la_tendance__
         - slot: pause-1-day-2
           talk: __pause
         - slot: slot-2-day-2
@@ -205,7 +205,7 @@
         - slot: pause-3-day-2
           talk: __pause
         - slot: slot-5-day-2
-          talk: creer_une_application_cloud_native_avec_quarkus_et_google_cloud_functions_
+          talk: securisez_votre_pipeline_de_livraison_multi_cloud_avec_hashicorp_vault
         - slot: pause-4-day-2
           talk: __pause
         - slot: slot-6-day-2
@@ -213,7 +213,7 @@
         - slot: pause-5-day-2
           talk: __pause
         - slot: slot-7-day-2
-          talk: vide
+          talk: a_la_decouverte_du_code_source_du_vaccin_pfizer_biontech
         - slot: pause-6-day-2
           talk: __pause
     - room: room3
@@ -247,7 +247,7 @@
     - room: room4
       slots: 
         - slot: slot-1-day-2
-          talk: coupable_de_code_legacy_en_js__comment_s_en_sortir_?
+          talk: coupable_de_code_legacy_en_js__comment_s_en_sortir__
         - slot: pause-1-day-2
           talk: __pause
         - slot: slot-2-day-2
@@ -267,7 +267,7 @@
         - slot: pause-4-day-2
           talk: __pause
         - slot: slot-6-day-2
-          talk: industrialiser_son_app_mobile___self_hosted_ou_saas?
+          talk: industrialiser_son_app_mobile___self_hosted_ou_saas_
         - slot: pause-5-day-2
           talk: __pause
         - slot: slot-7-day-2
@@ -275,7 +275,7 @@
     - room: room_codelab1
       slots: 
         - slot: codelab-1-day-2
-          talk: une_approche_pragmatique_pour_debogguer__des_services_sur_openshift/kubernetes
+          talk: une_approche_pragmatique_pour_debogguer__des_services_sur_openshift_kubernetes
         - slot: codelab-2-day-2
           talk: the_walking_bread___participe_a_la_conception_ux_d_un_produit
     - room: room_codelab2

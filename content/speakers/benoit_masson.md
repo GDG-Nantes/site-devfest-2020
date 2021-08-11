@@ -10,7 +10,7 @@ photoUrl: >-
   https://lh6.googleusercontent.com/-lDy6h3bK4HM/AAAAAAAAAAI/AAAAAAAAAVw/Glz_K6R52y4/photo.jpg
 socials:
   - icon: github
-    link: https://twitter.com/benoitmasson
+    link: https://github.com/benoitmasson
     name: benoitmasson
 
 ---

@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/scharrier
     name: scharrier
   - icon: github
-    link: https://twitter.com/scharrier
+    link: https://github.com/scharrier
     name: scharrier
 
 ---

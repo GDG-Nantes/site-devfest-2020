@@ -11,10 +11,10 @@ photoUrl: >-
 socials:
   - icon: twitter
     link: https://twitter.com/adrienjoly
-    name: https://twitter.com/adrienjoly
+    name: adrienjoly
   - icon: github
-    link: https://twitter.com/https://github.com/adrienjoly
-    name: https://github.com/adrienjoly
+    link: https://github.com/adrienjoly
+    name: adrienjoly
 
 ---
 

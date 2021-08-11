@@ -13,10 +13,11 @@ socials:
     link: https://twitter.com/@ihommani
     name: '@ihommani'
   - icon: github
-    link: https://twitter.com/https://github.com/ihommani
-    name: https://github.com/ihommani
+    link: https://github.com/ihommani
+    name: ihommani
 
 ---
 
 Fort d’une longue expérience dans le développement, Ismaël a toujours su évoluer en fonction des problématiques présentées.
 Scalabilité, résilience et sécurité sont les maîtres-mots de son approche.  Le cloud arrive aujourd’hui à maturité et rend ces concepts accessibles au plus grand nombre, devenant ainsi son terrain d’expertise. Plus que la potentialité du cloud à ouvrir des horizons c'est le comment y aller et y rester qui intéresse Ismaël notamment en adoptant une approche dite Cloud Native.
+Ismaël est par ailleurs membre de la communauté GDE depuis 2021.

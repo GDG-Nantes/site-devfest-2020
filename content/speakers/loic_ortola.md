@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@LoicOrtola
     name: '@LoicOrtola'
   - icon: github
-    link: https://twitter.com/loicortola
+    link: https://github.com/loicortola
     name: loicortola
 
 ---

@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/RRochegude
     name: RRochegude
   - icon: github
-    link: https://twitter.com/RoRoche
+    link: https://github.com/RoRoche
     name: RoRoche
 
 ---

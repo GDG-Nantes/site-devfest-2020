@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@laurentgrangeau
     name: '@laurentgrangeau'
   - icon: github
-    link: https://twitter.com/laurentgrangeau
+    link: https://github.com/laurentgrangeau
     name: laurentgrangeau
 
 ---

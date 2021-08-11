@@ -10,10 +10,10 @@ photoUrl: >-
 socials:
   - icon: twitter
     link: https://twitter.com/julia_lehoux
-    name: https://twitter.com/julia_lehoux
+    name: julia_lehoux
   - icon: github
-    link: https://twitter.com/https://github.com/JuliaLehoux
-    name: https://github.com/JuliaLehoux
+    link: https://github.com/JuliaLehoux
+    name: JuliaLehoux
 
 ---
 

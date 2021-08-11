@@ -10,10 +10,10 @@ photoUrl: >-
 socials:
   - icon: twitter
     link: https://twitter.com/ChabaneRefes
-    name: https://twitter.com/ChabaneRefes
+    name: ChabaneRefes
   - icon: github
-    link: https://twitter.com/https://github.com/Chabane
-    name: https://github.com/Chabane
+    link: https://github.com/Chabane
+    name: Chabane
 
 ---
 

@@ -9,7 +9,7 @@ city: Saint-Sébastien-sur-Loire, France
 photoUrl: https://avatars1.githubusercontent.com/u/10868277?v=4
 socials:
   - icon: github
-    link: https://twitter.com/ChtiDkois
+    link: https://github.com/ChtiDkois
     name: ChtiDkois
 
 ---

@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@madou_coulibaly
     name: '@madou_coulibaly'
   - icon: github
-    link: https://twitter.com/mcouliba
+    link: https://github.com/mcouliba
     name: mcouliba
 
 ---

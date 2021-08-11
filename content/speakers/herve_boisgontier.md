@@ -9,8 +9,8 @@ city: Saint-Herblain, France
 photoUrl: https://avatars1.githubusercontent.com/u/57721330?v=4
 socials:
   - icon: github
-    link: https://twitter.com/https://github.com/hboisgontier/afupDay2020
-    name: https://github.com/hboisgontier/afupDay2020
+    link: https://github.com/hboisgontier/afupDay2020
+    name: hboisgontier/afupDay2020
 
 ---
 

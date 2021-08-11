@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@mercury_wood
     name: '@mercury_wood'
   - icon: github
-    link: https://twitter.com/hgwood
+    link: https://github.com/hgwood
     name: hgwood
 
 ---

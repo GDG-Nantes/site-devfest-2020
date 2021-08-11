@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@Giuliabianchl
     name: '@Giuliabianchl'
   - icon: github
-    link: https://twitter.com/giulbia
+    link: https://github.com/giulbia
     name: giulbia
 
 ---

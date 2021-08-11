@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@JulienSalvi
     name: '@JulienSalvi'
   - icon: github
-    link: https://twitter.com/Oleur
+    link: https://github.com/Oleur
     name: Oleur
 
 ---

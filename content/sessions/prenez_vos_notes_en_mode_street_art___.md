@@ -8,9 +8,9 @@ tags:
   - discovery
 complexity: Beginner
 speakers:
-  - marc_dugue
   - pierre_tibulle
   - sylvain_calmet
+  - marc_dugue
 draft: false
 
 ---

@@ -13,8 +13,8 @@ socials:
     link: https://twitter.com/@WattezAdrien
     name: '@WattezAdrien'
   - icon: github
-    link: https://twitter.com/https://github.com/awattez
-    name: https://github.com/awattez
+    link: https://github.com/awattez
+    name: awattez
 
 ---
 

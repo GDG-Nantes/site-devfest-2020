@@ -12,8 +12,8 @@ socials:
     link: https://twitter.com/@dedalusium
     name: '@dedalusium'
   - icon: github
-    link: https://twitter.com/https://github.com/dedalusium
-    name: https://github.com/dedalusium
+    link: https://github.com/dedalusium
+    name: dedalusium
 
 ---
 

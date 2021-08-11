@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@Nicooss54
     name: '@Nicooss54'
   - icon: github
-    link: https://twitter.com/Nicoss54
+    link: https://github.com/Nicoss54
     name: Nicoss54
 
 ---

@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@Errorname_
     name: '@Errorname_'
   - icon: github
-    link: https://twitter.com/Errorname
+    link: https://github.com/Errorname
     name: Errorname
 
 ---

@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@_louidji
     name: '@_louidji'
   - icon: github
-    link: https://twitter.com/louiznk
+    link: https://github.com/louiznk
     name: louiznk
 
 ---

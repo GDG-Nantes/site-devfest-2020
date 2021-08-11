@@ -13,8 +13,8 @@ socials:
     link: https://twitter.com/@LostInBrittany
     name: '@LostInBrittany'
   - icon: github
-    link: https://twitter.com/https://github.com/LostInBrittany
-    name: https://github.com/LostInBrittany
+    link: https://github.com/LostInBrittany
+    name: LostInBrittany
 
 ---
 

@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@Slashgear_
     name: '@Slashgear_'
   - icon: github
-    link: https://twitter.com/@Slashgear
+    link: https://github.com/@Slashgear
     name: '@Slashgear'
 
 ---

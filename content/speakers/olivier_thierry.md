@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/@OThierryBzh
     name: '@OThierryBzh'
   - icon: github
-    link: https://twitter.com/chawax
+    link: https://github.com/chawax
     name: chawax
 
 ---

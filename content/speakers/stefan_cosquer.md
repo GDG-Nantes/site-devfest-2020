@@ -12,7 +12,7 @@ socials:
     link: https://twitter.com/@stefancosquer
     name: '@stefancosquer'
   - icon: github
-    link: https://twitter.com/stefancosquer
+    link: https://github.com/stefancosquer
     name: stefancosquer
 
 ---

@@ -13,7 +13,7 @@ socials:
     link: https://twitter.com/Benoit_Maire
     name: Benoit_Maire
   - icon: github
-    link: https://twitter.com/Tibeno88
+    link: https://github.com/Tibeno88
     name: Tibeno88
 
 ---
