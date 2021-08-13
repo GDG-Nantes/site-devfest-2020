@@ -48,15 +48,13 @@ It is aimed at students, professionals or simply curious techies.
         name="2 days ticket"
         starts="2021-09-07"
         ends="2021-10-01"
-        price="110€"
-        info="1000 places" >}}</a></li>
+        price="110€" >}}</a></li>
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
         closed="true"
         name="1 day ticket"
         starts="2021-09-07"
         ends="2021-10-01"
-        price="60€"
-        info="200 places" >}}</a></li>
+        price="60€" >}}</a></li>
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
         closed="true"
         name="Reduced price"

@@ -47,15 +47,13 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
         name="Pass 2 jours"
         starts="2021-09-07"
         ends="2021-10-01"
-        price="110€"
-        info="1000 places" >}}</a></li>
+        price="110€" >}}</a></li>
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
         closed="true"
         name="Pass 1 jour"
         starts="2021-09-07"
         ends="2021-10-01"
-        price="60€"
-        info="200 places" >}}</a></li>
+        price="60€" >}}</a></li>
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
         closed="true"
         name="Tarif réduit"
