@@ -5,6 +5,7 @@ id: lnTyqvmDQTVyinwMGFoh5trtHcf2
 feature: false
 company: Stack Labs
 companyLogo: /images/partners/stacklabs.png
+city: Toulouse, France
 photoUrl: >-
   https://lh3.googleusercontent.com/-62A2WbxXPjM/AAAAAAAAAAI/AAAAAAAAAEw/DX7i3nZ38cA/photo.jpg
 socials:
