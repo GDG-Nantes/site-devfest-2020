@@ -5,6 +5,7 @@ id: WyLUApe5AXORfuw4ILgbO9hrgO72
 feature: false
 company: Zenika
 companyLogo: /images/partners/zenika.png
+city: Nantes, France
 photoUrl: >-
   https://lh3.googleusercontent.com/a-/AAuE7mDQ0ZEsybs2sgzP6pvzXoH37W-RFS_svGPs9-SYSA
 socials:
