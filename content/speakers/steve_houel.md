@@ -3,6 +3,9 @@ key: steve_houel
 name: Steve HOUEL
 id: nXRQZuC9RiOHYPALJVRwYQK3Oo52
 feature: false
+company: Amazon Web Services
+companyLogo: /images/partners/aws.png
+city: Nantes, France
 photoUrl: https://avatars0.githubusercontent.com/u/18191277?v=4
 socials: []
 
