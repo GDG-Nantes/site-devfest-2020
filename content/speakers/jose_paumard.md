@@ -5,6 +5,7 @@ id: W7qtDjdq0lbENMfVCPp1skurwhB2
 feature: true
 company: Oracle
 companyLogo: /images/partners/oracle.png
+city: Paris, France
 photoUrl: >-
   https://lh3.googleusercontent.com/a-/AAuE7mCO1tTjb-bXBtSnWzo1AGC6H-uIzFdvqbKq12SmPC0
 socials:
