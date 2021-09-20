@@ -5,6 +5,7 @@ id: Et0TICQLYudeoQ5KjUZ55X2rU9M2
 feature: false
 company: Pix
 companyLogo: /images/partners/pix.png
+city: Nantes, France
 photoUrl: >-
   https://lh5.googleusercontent.com/-tmj1tGCN_u4/AAAAAAAAAAI/AAAAAAAABO0/oVqsblFTX8k/photo.jpg
 socials:
