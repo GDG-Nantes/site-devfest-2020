@@ -5,7 +5,7 @@ id: golnkyMWh5W7HjoAfmYcCvXh9Yg2
 feature: false
 company: Zenika
 companyLogo: /images/partners/zenika.png
-city: Lyon
+city: Lyon, France
 photoUrl: >-
   https://lh4.googleusercontent.com/-cVRndUQ_8GQ/AAAAAAAAAAI/AAAAAAAAAB8/HnFHwMBucLc/photo.jpg
 socials:
