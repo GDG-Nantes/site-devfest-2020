@@ -5,6 +5,7 @@ id: OKnnqF5rvqaTZtyyv1ljWIcr74h1
 feature: false
 company: Association ESTIMnumérique
 companyLogo: /images/partners/association_estimnumerique.png
+city: Rennes, France
 photoUrl: >-
   https://www.letelegramme.fr/ar/imgproxy.php/images/2021/03/10/melissa-cottin-et-son-equipe-proposent-un-accompagnement_5571975.jpg?article=12716816&aaaammjj=12716816
 socials:
