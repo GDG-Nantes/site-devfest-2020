@@ -5,6 +5,7 @@ id: WeyT26YvUmPM5x3GTRbsfoP6ddr2
 feature: false
 company: Zenika
 companyLogo: /images/partners/zenika.png
+city: Paris, France
 photoUrl: >-
   https://lh3.googleusercontent.com/a-/AAuE7mBwSvJKUBoFQmtgP5mmTx4XquiG5YHEDhgJhYMTpQ
 socials:
