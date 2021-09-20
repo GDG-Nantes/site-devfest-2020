@@ -5,6 +5,7 @@ id: bsQBCvfQjCbafP0wFCWVkPqwTGX2
 feature: false
 company: ENI
 companyLogo: /images/partners/eni.png
+city: Nantes, France
 photoUrl: https://avatars.githubusercontent.com/u/84006572?v=4
 socials:
   - icon: github
