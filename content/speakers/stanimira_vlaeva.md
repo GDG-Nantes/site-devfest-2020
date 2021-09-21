@@ -3,8 +3,8 @@ key: stanimira_vlaeva
 name: Stanimira Vlaeva
 id: BM5xyvClhgMtJPP4GPfbQNvejQI2
 feature: false
-company: VMware
-companyLogo: /images/partners/vmware.png
+company: MongoDB
+companyLogo: /images/partners/mongodb.png
 city: Sofia, Bulgaria
 photoUrl: https://avatars.githubusercontent.com/u/7893485?v=4
 socials:
@@ -17,4 +17,4 @@ socials:
 
 ---
 
-I'm a Google Developer Expert for Angular and a developer on the Clarity team at VMware. I love open source and I'm part of the Technical Steering Committee for NativeScript. My Twitter DMs are always open!
+I'm a Developer Advocate at MongoDB and a Google Developer Expert for Angular. I love open source and I'm part of the Technical Steering Committee for NativeScript. My Twitter DMs are always open!
