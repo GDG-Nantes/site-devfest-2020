@@ -13,6 +13,5 @@ socials:
     name: '@k_gamanji'
 
 ---
-
-Skilful Cloud Platform Engineer highly focused on infrastructure tools, container orchestrators and cloud-native applications. 
-Public speaker at numerous international conferences and meetups and active participant in the STEM development community.
+Katie is the Ecosystem Technical Advocate at CNCF or Cloud Native Computing Foundation. Katie's focus within this role is to grow and lead the End User Community while bridging the gap with other ecosystem units, such as project maintainers, TOCs, and SIGs. In the past roles as a cloud platform engineer, Katie has build platforms that gravitate towards cloud-native technologies and principles, with Kubernetes as the focal point. These projects started with the automation of application delivery on OpenStack-based infrastructure, which transitioned into the creation of a centralized, globally distributed platform at Condé Nast and American Express.
+Additionally, Katie is the creator/instructor of the Cloud Native Fundamentals Udacity course and is on the advisory board for Keptn, a CNCF sandbox project.
