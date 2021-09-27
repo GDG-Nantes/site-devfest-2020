@@ -5,7 +5,7 @@ id: 3zURk2N6yVcLybDotsA2l603gM12
 feature: false
 company: Google
 companyLogo: /images/partners/google.png
-city: Nantes, France
+city: Paris, France
 photoUrl: https://avatars1.githubusercontent.com/u/13508141?v=4
 socials:
   - icon: twitter
