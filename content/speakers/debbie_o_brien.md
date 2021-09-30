@@ -4,7 +4,7 @@ name: Debbie O'Brien
 id: fhUpAhCDHlSx2SlgBCRYL1Wl6YG2
 feature: true
 photoUrl: https://avatars.githubusercontent.com/u/13063165?v=4
-company: CNCF
+company: bit
 companyLogo: /images/partners/bit.png
 city: Palma, Espagne
 socials:
