@@ -61,6 +61,11 @@ In La Cité des Congrès all areas are accessible for wheelchair users.
 
 This year, due to the the sanitary situation, some precautionary measures will be applied, including the verification of a european sanitary pass. All informations are available on this website: https://www.gouvernement.fr/en/coronavirus-covid-19
 
+## Where to sleep ?
+
+If you plan on booking an hotel, a partnership why the <a href="https://goo.gl/maps/LA4eTLqZWeZTtShWA" target="_blank">Novotel</a> right next to the Cité des Congrès is available. <br>
+You can book your nights by phone (+33)2.51.82.00.00 with the voucher <strong>Devfest2021</strong>.
+
 ## How to get there?
 
 ### By train

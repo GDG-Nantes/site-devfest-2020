@@ -61,6 +61,10 @@ Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, 
 
 Cette année, étant donné la situation sanitaire, des mesures de préventions seront appliquées conformément aux préconisations du gouvernement. Cela inclue la vérification du pass sanitaire. Toutes les informations sont disponibles sur ce site: https://www.gouvernement.fr/info-coronavirus
 
+## Où dormir ?
+
+Si vous voulez dormir à proximité, un partenariat avec le <a href="https://goo.gl/maps/LA4eTLqZWeZTtShWA" target="_blank">Novotel</a> collé à la cité des congrès est disponible.<br>
+La réservation se fait par téléphone au (+33)2.51.82.00.00 avec le code <strong>Devfest2021</strong>.
 
 ## Comment s'y rendre ?
 
