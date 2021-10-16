@@ -63,8 +63,16 @@ Cette année, étant donné la situation sanitaire, des mesures de préventions 
 
 ## Où dormir ?
 
-Si vous voulez dormir à proximité, un partenariat avec le <a href="https://goo.gl/maps/LA4eTLqZWeZTtShWA" target="_blank">Novotel</a> collé à la cité des congrès est disponible.<br>
-La réservation se fait par téléphone au (+33)2.51.82.00.00 avec le code <strong>Devfest2021</strong>.
+L'équipe du DevFest Nantes a négocié des prix auprès de l'hôtel Residhome pour les participants de l'événement.
+
+<strong>Hôtel Residhome</strong><br>
+3 allée Jacques Berque<br>
+44000 Nantes<br>
+Tél : <a href="tel:+33240990707">+33 (0)2 40 99 07 07</a><br>
+Email: <a href="mailto:nantes.bergesdelaloire@residhome.com">nantes.bergesdelaloire@residhome.com</a><br>
+<a href="https://www.google.fr/maps/place/Residhome+Nantes+Berges+de+la+Loire/@47.2122877,-1.5388464,15z/data=!4m2!3m1!1s0x0:0x2b56e1873da0f956" target="_blank" style="color: var(--darken-3)">Lien Google Maps</a>
+
+Situé juste en face de la Cité des Congrès, le Residhome les Berges de la Loire vous propose des tarifs négociés avec le code "<strong>DEVFEST2021</strong>".
 
 ## Comment s'y rendre ?
 
