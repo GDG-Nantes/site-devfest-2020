@@ -23,3 +23,8 @@ Cela offre plusieurs avantages
 - Analyse du code à la compilation
 
 Durant ce Codelabs vous allez apprendre à aimer Svelte en créant une application qui vous présentera les différentes possibilités du Framework.
+
+Prérequis :
+- Chrome/Firefox
+- VSCode (ou autre IDE)
+- NodeJS LTS
