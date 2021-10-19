@@ -1,6 +1,6 @@
 ---
 key: a_la_decouverte_d_accelerate
-title: A la découverte d'accelerate
+title: A la découverte d'Accelerate
 id: xLrCPHjoO1jxuV24bq9e
 language: French
 talkType: codelab
