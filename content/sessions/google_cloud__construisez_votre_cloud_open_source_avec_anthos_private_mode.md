@@ -13,8 +13,6 @@ draft: false
 
 ---
 
-Je vous propose de venir découvrir Anthos Private Mode, le cloud open source Google que vous pouvez déployer sur vos serveurs.
+Je vous propose de venir découvrir Anthos On Premise, le cloud open source Google.
 
 A travers la casquette d'un Ops, puis la caquette d'un Dev, vous découvrirez comment fonctionne Anthos dans une série de démos.
-
-Pour l'occasion, j'aurais sur scene avec moi un cluster de serveurs pour illustrer les différents cas d'utilisation.
