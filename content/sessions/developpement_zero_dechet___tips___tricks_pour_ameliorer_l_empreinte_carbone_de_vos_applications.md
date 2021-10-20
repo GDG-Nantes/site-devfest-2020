@@ -24,4 +24,9 @@ Sachant qu'il est possible de réduire ses déchets à la maison en appliquant l
 
 Cet atelier vous propose de suivre pas à pas des étapes concrètes pour améliorer une base de code et tendre à la rendre la plus efficiente possible.
 
-Pré-requis : quelques connaissances en HTML, CSS, javascript. Connaissances de concepts de programmation basiques
+Pré-requis : 
+- quelques connaissances en HTML, CSS, javascript. Connaissances de concepts de programmation basiques
+- un IDE ou un éditeur de texte
+- Firefox ou Chrome/Chromium
+- Node.js et npm installés
+- De la bonne humeur :) 
