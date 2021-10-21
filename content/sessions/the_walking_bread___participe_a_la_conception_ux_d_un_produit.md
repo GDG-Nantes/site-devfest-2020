@@ -26,6 +26,8 @@ Dans un monde chronophage, sous l’emprise du train-train quotidien, des épicu
 
 Création de l’application The Walking Bread
 
-Viens mettre en oeuvre un projet pendant sa phase d’idéation !
-Prends ta place au sein d’ateliers UX et apprends à co-créer un produit avant de le coder !
+Viens mettre en oeuvre un projet pendant sa phase d’idéation !\
+Prends ta place au sein d’ateliers UX et apprends à co-créer un produit avant de le coder !\
 Bascule du côté obscure du Design Thinking !
+
+Pré-requis : curiosité, bonne humeur et travail d'équipe
