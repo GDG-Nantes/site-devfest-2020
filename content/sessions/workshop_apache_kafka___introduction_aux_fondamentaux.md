@@ -14,6 +14,7 @@ draft: false
 
 ---
 
+Github Pages : https://zenika.github.io/nc-kafka-fundamentals/
 Repository : https://github.com/Zenika/nc-kafka-fundamentals
 
 Ce workshop à pour objectif de vous initier à Kafka au travers d'une présentation des fondamentaux, d'une démo et d'un live coding.
