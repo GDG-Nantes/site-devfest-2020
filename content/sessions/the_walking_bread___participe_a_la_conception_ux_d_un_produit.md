@@ -30,4 +30,5 @@ Viens mettre en oeuvre un projet pendant sa phase d’idéation !\
 Prends ta place au sein d’ateliers UX et apprends à co-créer un produit avant de le coder !\
 Bascule du côté obscure du Design Thinking !
 
-Pré-requis : curiosité, bonne humeur et travail d'équipe
+Pré-requis : curiosité, bonne humeur et travail d'équipe\
+Pas besoin d'ordinateur !
