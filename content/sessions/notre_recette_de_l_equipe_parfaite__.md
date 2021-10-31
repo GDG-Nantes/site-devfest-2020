@@ -11,7 +11,7 @@ speakers:
   - estelle_landry__️
   - yvonnick_frin
 draft: false
-
+videoId: r0VmGhjnJr4
 ---
 
 A l’instar de la bonne cuisine, un bon travail d’équipe se prépare avec soin. Des recettes bien connues (comme Shape up (Basecamp) ou le modèle Spotify) ont été partagées dans le monde entier… Mais le soufflé est vite retombé et les “bonnes recettes” tournent souvent en eau de boudin à la réalisation.

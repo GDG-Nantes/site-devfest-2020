@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - thibaud_courtoison
 draft: false
-
+videoId: 29Z_P02aTWM
 ---
 
 Tendance du moment, le Chaos Engineering consiste à étudier le comportement d'un système face à des évènements externes souvent peu probables, mais ici provoqués (crash d'un serveur ou load-balancer, perte du DNS, ...)

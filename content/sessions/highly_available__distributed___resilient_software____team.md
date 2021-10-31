@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - yohan_lasorsa
 draft: false
-
+videoId: x3sQu31jGu4
 ---
 
 Les design patterns pour concevoir des applications web distribuées, robustes et qui passent à l'échelle sont bien connus aujourd'hui. L'organisation de projet permettant de les mettre en place de manière efficace reste cependant un challenge, le facteur "humain" étant source de problèmes difficile à prévoir.

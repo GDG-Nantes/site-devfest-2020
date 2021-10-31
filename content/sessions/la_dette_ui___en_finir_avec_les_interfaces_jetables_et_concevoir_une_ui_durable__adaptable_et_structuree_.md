@@ -13,7 +13,7 @@ complexity: Beginner
 speakers:
   - loic_vanderschooten__
 draft: false
-
+videoId: ykPEqGiWhxc
 ---
 
 Toutes les équipes projets se retrouvent un jour rattrapées par les choix techniques ou stratégiques faits des mois ou des années plus tôt. L'analyse de ces choix conduit bien souvent à convenir d'une dette technique ou d'une dette UX ayant imposé un chemin précis au produit développé. Ce chemin ne correspond pas souvent à la trajectoire anticipée par les équipes et conduit à la refonte en profondeur des éléments travaillés. L'analyse de la dette UI se résume bien souvent de son côté à des projets de refonte d'identité graphique complète, sans tenir compte des évolutions possibles ou des erreurs précédemment commises.

@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - stefan_cosquer
 draft: false
-
+videoId: wy7iYVyYSA0
 ---
 
 Dans le cadre d'une initiative Tech4Good avec l'ACIAH, association aidant les personnes en situation de handicap à utiliser l'outil informatique, nous avons développé bénévolement une application mobile Flutter permettant aux mal-voyants et non-voyants la lecture de documents et journaux papier.

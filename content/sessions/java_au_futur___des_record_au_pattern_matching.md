@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - jose_paumard
 draft: false
-
+videoId: chM_G6tOTE8
 ---
 
 Les langages fonctionnels ont amené trois idées fondamentales en programmation depuis les années 60. 

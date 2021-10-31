@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - maxence_lefebvre
 draft: false
-
+videoId: Kw7avHFg4hY
 ---
 
 Internatiolazi, wait, Internationani, wait, i18n.

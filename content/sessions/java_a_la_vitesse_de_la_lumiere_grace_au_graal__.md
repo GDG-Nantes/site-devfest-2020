@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - anthony_pena
 draft: false
-
+videoId: H804HU87gOQ
 ---
 
 Quand on fait du Java on a tendance à prendre l'OpenJDK par défaut et ne pas trop se poser de question. Parfois Oracle JDK. Mais est-ce que vous avez déjà tenté GraalVM ?

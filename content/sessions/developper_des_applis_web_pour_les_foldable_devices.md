@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - olivier_leplus
 draft: false
-
+videoId: p47z7rgRghQ
 ---
 
 Vous avez surement du les voir passer, les téléphones à écrans pliables comme le Samsung Galaxy Fold ou avec deux écrans comme le Surface Duo sont déjà sur le marché, il ne reste plus qu'à mettre vos applications à jour ! ... 🤔 Mais comment ? Par ou commencer ? Heureusement, le web évolue en permanance et a déjà commencé à s'adapter à ces nouveaux périphériques.

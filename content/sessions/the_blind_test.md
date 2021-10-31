@@ -11,7 +11,7 @@ speakers:
   - florent_leveque
   - herve_boisgontier
 draft: false
-
+videoId: A74XCjsdD78
 ---
 
 <p>Non, il ne s’agit pas d’un test musical mais de comprendre comment une personne aveugle navigue sur une page web !</p>

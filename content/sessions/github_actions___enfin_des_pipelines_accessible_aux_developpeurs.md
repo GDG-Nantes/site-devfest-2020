@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - antoine_meausoone
 draft: false
-
+videoId: vH7vOblTkys
 ---
 
 Avez-vous eu déjà été frustré d’avoir des pipelines illisibles, remplies de code bash difficile à lire, et à maintenir ? Ou en tant que développeur, avoir voulu corriger ou ajouter une fonctionnalité dans votre pipeline, et être rebuté face à la complexité du code ? 

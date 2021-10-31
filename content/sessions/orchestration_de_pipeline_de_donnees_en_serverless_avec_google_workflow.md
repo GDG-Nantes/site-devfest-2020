@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - guillaume_blaquiere
 draft: false
-
+videoId: WC-cyJta8pg
 ---
 
 Les process événementiel sont une nouvelle façon de traiter et d'ingérer les données. Le serverless est un nouveau paradigme pour faire abstraction de la couche technique et se concentrer sur ce qui compte: les processus métier.

@@ -11,7 +11,7 @@ speakers:
   - jerome_lucas
   - ronan_robe
 draft: false
-
+videoId: 0xmfoGeizZ0
 ---
 
 Atelier de sensibilisation au numérique responsable. Un atelier d'1h, sur un format ludique, avec quizz sur smartphone pour l'auditoire, pour interagir avec le public, tout le long de la conférence.

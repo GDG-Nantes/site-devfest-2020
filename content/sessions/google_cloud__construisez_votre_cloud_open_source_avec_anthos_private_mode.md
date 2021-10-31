@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - philippe_antoine
 draft: false
-
+videoId: u0Ys8-lcWSY
 ---
 
 Je vous propose de venir découvrir Anthos On Premise, le cloud open source Google.

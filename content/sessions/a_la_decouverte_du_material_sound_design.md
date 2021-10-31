@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - colin_cleary
 draft: false
-
+videoId: lw58EIBP8D0
 ---
 
 Alors que le son nous entoure constamment au quotidien, il n'est que rarement pris en considération lors de la phase de design d'un produit ou d'une application.

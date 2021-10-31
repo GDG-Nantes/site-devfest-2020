@@ -11,7 +11,7 @@ speakers:
   - thierry_trepied
   - wolfgang_goedel
 draft: false
-
+videoId: ZErVm3786mk
 ---
 
 Construire une digital Factory dans une neo-ESN demande à adresser, d'une part une organisation interne agile et adaptative aux différents contextes d'interventions, mais aussi assurer un delivery optimal envers le Client (interne ou externe).

@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - david_laize
 draft: false
-
+videoId: ohVd4ugay1o
 ---
 
 Vous voyez ce développeur qui tous les matins dit : "J'ai presque fini !" 

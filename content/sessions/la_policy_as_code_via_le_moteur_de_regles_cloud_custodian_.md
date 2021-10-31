@@ -11,7 +11,7 @@ speakers:
   - ismael_hommani
   - tanguy_combe
 draft: false
-
+videoId: c0WbXS2hbjE
 ---
 
 S'inscrivant dans le paradigme Devops du Everything as Code, l'approche Policy As Code consiste à décrire un certain nombre de règles que doit observer notre plateforme Cloud.   

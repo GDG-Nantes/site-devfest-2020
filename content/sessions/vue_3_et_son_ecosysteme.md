@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - nicolas_frizzarin
 draft: false
-
+videoId: tJB-0iW8zqA
 ---
 
 Il y a un peu plus d 'un an, Evan YOU monte sur la scène du Vue Js Amsterdam avec plein de nouveautés plus excitantes les unes que les autres concernant Vue 3

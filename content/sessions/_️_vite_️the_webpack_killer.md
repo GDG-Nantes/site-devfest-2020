@@ -11,7 +11,7 @@ speakers:
   - antoine_caron
   - mathieu_mure
 draft: false
-
+videoId: 9R5JuyfsGwc
 ---
 
 Toute application web a besoin d’être packagée afin d’être livrée en production. Pour répondre à cette problématique, de nombreux outils, connus sous le nom de modules bundler, sont apparus, et ces dernières années, c’est Webpack qui semble s’être imposé comme l’outil incontournable.

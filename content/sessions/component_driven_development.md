@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - debbie_o_brien
 draft: false
-
+videoId: nuDwgjkRNSI
 ---
 
 How we do component driven development at Bit and how to architect your components best so you can think and work in components and therefore reuse components and scale easier and faster.

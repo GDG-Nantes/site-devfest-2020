@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - valentin_deleplace
 draft: false
-
+videoId: K5fce41v7EM
 ---
 
 Comment vérifier que le jeu Google I/O Adventure (mai 2021) tiendra la charge de 80000 connections simultanées, sans s'effondrer? Comment provisionner correctement les serveurs de jeu?

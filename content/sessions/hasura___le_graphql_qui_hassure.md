@@ -11,7 +11,7 @@ speakers:
   - hugo_wood
   - valentin_cocaud
 draft: false
-
+videoId: WLv16ZPwIYc
 ---
 
 GraphQL est vraiment top pour le développement front-end, mais avez-vous déjà essayé de coder le côté serveur ? C'est un travail difficile, répétitif et peu gratifiant, sans parler qu'il n'apporte pas de valeur métier.

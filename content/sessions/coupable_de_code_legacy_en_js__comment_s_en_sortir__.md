@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - adrien_joly
 draft: false
-
+videoId: vJUl8SCf5Yg
 ---
 
 Est-ce que vous avez déjà eu du mal à comprendre du code que vous avez écrit il y a quelques mois ?

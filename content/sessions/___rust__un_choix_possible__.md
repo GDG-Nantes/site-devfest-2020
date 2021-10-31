@@ -11,7 +11,7 @@ speakers:
   - charles_henri_guerin
   - pierre_yves_aillet
 draft: false
-
+videoId: NdxmFPaXj8s
 ---
 
 Lorsque vous commencez un nouveau projet chez un client, vient le moment inévitable de choisir un langage. En général, un premier tri a déjà été fait et validé par le client : Java, Javascript, Python. Pourtant, Rust n'apparaît pas dans cette liste ! Et ce malgré la popularité et les avantages incontestables de ce langage merveilleux #Pub.

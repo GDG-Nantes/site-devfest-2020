@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - benoit_masson
 draft: false
-
+videoId: _NWuH-h4te0
 ---
 
 Attendue depuis des années, initialement non souhaitée par les responsables du langage, la généricité s'apprête à être introduite dans le langage Go.

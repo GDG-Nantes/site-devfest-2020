@@ -13,7 +13,7 @@ complexity: Beginner
 speakers:
   - flavien_normand
 draft: false
-
+videoId: kjppAYoHH9E
 ---
 
 REX du projet Koï, une centrale de détection de touches pour la pêche sportive à la carpe, qui a commencé sur un coup de tête, pour finir par une mise en condition réelle lors d'une session initiation nocturne.

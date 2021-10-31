@@ -11,7 +11,7 @@ speakers:
   - emeric_martineau
   - julien_haumont
 draft: false
-
+videoId: xh_BgQhowTQ
 ---
 
 Quand dans le monde bien vu du développement, seule les zones d'affichage Mac et Linux sont autorisés, comment faire graffer vos idées depuis Windows ?

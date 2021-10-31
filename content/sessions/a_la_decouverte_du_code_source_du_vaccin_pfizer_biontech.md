@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - colin_cleary
 draft: false
-
+videoId: CAaIIZVCN2M
 ---
 
 Un vaccin n'est pas qu'un liquide : c'est aussi un code source. Le vaccin Pfizer/BioNTech basé sur la nouvelle technologie des vaccins ARNm est composé d'un code source d'un peu plus de 4000 caractères. A travers ce talk, nous allons découvrir section par section le fonctionnement du vaccin et sa ressemblance avec un code informatique traditionnel.

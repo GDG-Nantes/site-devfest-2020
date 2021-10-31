@@ -13,7 +13,7 @@ complexity: Intermediate
 speakers:
   - giulia_bianchi
 draft: false
-
+videoId: d8LsGdGS5UY
 ---
 
 At CybelAngel we scan the internet looking for data leaks. We bring back billions of candidate alerts only to send very few really sensible leaks to their legitimate owners.
