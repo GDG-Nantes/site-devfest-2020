@@ -11,7 +11,7 @@ speakers:
   - cynthia_staebler
   - julia_lehoux
 draft: false
-
+videoId: eYw6PQfKJr4
 ---
 
 Le burn out c’est le mal du 21e siècle. On en entend beaucoup parler, on sait qu’il rôde à la recherche de ses victimes pour s’y accrocher telle une moule sur son rocher. 

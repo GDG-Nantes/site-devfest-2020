@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - jimmy_kasprzak
 draft: false
-
+videoId: MyPYPbZwrlo
 ---
 
 Dans mon métier, en plus de développer, j'ai la chance de pouvoir enseigner de manière régulière.

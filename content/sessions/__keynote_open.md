@@ -7,6 +7,7 @@ tags:
   - __keynote_open
 speakers: 
   - antonin_fourneau
+videoId: Y59gT4Q5RpA
 ---
 De la complexité à la simplicité. 
 

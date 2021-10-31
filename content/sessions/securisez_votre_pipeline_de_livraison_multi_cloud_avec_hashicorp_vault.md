@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - vincent_poilvert
 draft: false
-
+videoId: 3eICrAQu1qo
 ---
 
 Je vois beaucoup de gens utiliser des secrets statiques écrits en dur dans leurs pipelines de déploiement pour s'authentifier auprès des fournisseurs cloud, ou pour se connecter sur des serveurs cibles à l'aide de ssh. La plupart du temps, le problème n'est pas résolu car il ne semble pas y avoir de solution facile, alors qu'il crée un risque critique pour la sécurité.

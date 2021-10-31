@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - sebastien_charrier
 draft: false
-
+videoId: 3UUpqXGEGQ4
 ---
 
 Nous multiplions les APIs, et les problèmes qui vont avec : désynchronisation des équipes, manque de documentations internes ou documentations dépassées, difficultés à maintenir les clients à jours... Tout ceci étant accentué par la nature même du web moderne et l’expansion des architectures en (micro)services.

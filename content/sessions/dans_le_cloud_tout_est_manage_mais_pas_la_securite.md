@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - eric_briand
 draft: false
-
+videoId: cHVwjd74Xg0
 ---
 
 L'un des principes du cloud, c'est le managé. Tout est managé, l'infrastructure, les serveurs, les bases de données etc. Mais la sécurité c'est une autre histoire. La gestion des rôles, la gestion des utilisateurs, des comptes de services, des certificats, des clés de chiffrement... vous maitrisez ?

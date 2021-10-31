@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - katie_gamanji
 draft: false
-
+videoId: QecDAUbrlpc
 ---
 
 Within its 7 years of existence, Kubernetes has been the centerpiece of the cloud native landscape, elevating a pluggable system that led to the diversification of the technology ecosystem. As a result, multiple areas have developed in the industry, galvanizing solutions for components that introduce standardization, guidelines, and interoperability of the tools. To innovate the developer experience and delivery of the application, the community focused on restructuring and modernizing the CI/CD operations. 

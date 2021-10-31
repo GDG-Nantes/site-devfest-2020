@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - benoit_maire
 draft: false
-
+videoId: Trpqksr5TZ8
 ---
 
 Qui n’a pas eu le réflexe dès qu’il entend un son, de le shazamer pour immédiatement savoir ce qu’il entendait ; qui n’a jamais cherché à savoir la musique qu’il entendait à la radio ou dans un espace public. On s’est posé la même question sur les œuvres d’artistes que l’on peut trouver au coin d’une rue, ou sur le mur entier d’un bâtiment. 

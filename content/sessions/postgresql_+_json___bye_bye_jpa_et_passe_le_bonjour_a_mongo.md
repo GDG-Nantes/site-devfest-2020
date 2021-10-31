@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - delegue_alexandre
 draft: false
-
+videoId: _sT1RJOLrE4
 ---
 
 * **Quelqu'un :** *Les ORMs c'est vraiment de la @%ù%$, franchement moi j'en utilise pas*

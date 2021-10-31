@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - cecile_freyd_foucault
 draft: false
-
+videoId: GMzXZA9tiW4
 ---
 
 Créer et utiliser un design system apporte plein d’avantages : cohérence, réutilisabilité, amélioration de l’expérience utilisateur… comment ne pas avoir envie de se lancer et dire “On doit faire un design system !” 

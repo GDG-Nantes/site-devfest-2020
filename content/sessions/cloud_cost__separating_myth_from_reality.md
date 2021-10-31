@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - chabane_refes
 draft: false
-
+videoId: CpEJquW1jvk
 ---
 
 Ça y est ! On va migrer nos applications on-premise sur le cloud public ! On commence par déployer une première application Web pour faire plaisir au business, on met en place de l'autoscaling et des backups pour satisfaire les ops, on chiffre le stockage et la base de données avec une clé et un firewall pour rassurer la sécurité... faisant ainsi grimper les coûts de manière non négligeables par rapport à ce qui était initialement prévu par la demande business.

@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - edouard_marquez
 draft: false
-
+videoId: VckYCFdPrZw
 ---
 
 En 2021, Google a poursuivi son rythme effréné et a sorti la version 2.0 de Flutter. 

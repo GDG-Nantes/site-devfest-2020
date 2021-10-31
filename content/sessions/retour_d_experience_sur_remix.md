@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - benoit_averty
 draft: false
-
+videoId: awnQlPtRSeU
 ---
 
 Remix est un framework React avec Server Side Rendering sorti en beta le 29 avril (et disponible en preview depuis octobre 2020).

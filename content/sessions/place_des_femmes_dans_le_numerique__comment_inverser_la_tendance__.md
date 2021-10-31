@@ -11,7 +11,7 @@ speakers:
   - arthur_tarroux
   - melissa_cottin
 draft: false
-
+videoId: AR8MXavA-p0
 ---
 
 Trop peu de femmes dans le numérique ? Aujourd'hui, le secteur du numérique compte en moyenne 27% de femmes contre 46,8% dans les autres secteurs d'activités. Seulement 15% des femmes occupent des fonctions techniques (développement, exploitation, production et gestion de projet). Il y a 30 ans, elles étaient 30% !

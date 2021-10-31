@@ -14,7 +14,7 @@ speakers:
   - louis_tournayre
   - pierre_morvan
 draft: false
-
+videoId: SOZrVZyQJdM
 ---
 
 Vous vous rappelez des séries avec des “bips” sur certains mots ? Nous allons faire de même, mais avec un censeur automatique utilisant sur un réseau de neurones.

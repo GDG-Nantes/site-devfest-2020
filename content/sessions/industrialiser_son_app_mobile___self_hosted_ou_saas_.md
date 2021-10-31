@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - thomas_boutin
 draft: false
-
+videoId: vaY9iD6M-go
 ---
 
 Quiconque fait du développement mobile a pour objectif le saint graal : la publication sur les stores.

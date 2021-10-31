@@ -10,7 +10,7 @@ complexity: Advanced
 speakers:
   - m4dz___
 draft: false
-
+videoId: d22nolzRHH4
 ---
 
 ## Reboot JS on the Server with Deno and Typescript
