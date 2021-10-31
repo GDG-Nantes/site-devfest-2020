@@ -12,6 +12,11 @@ menu:
 
 ### Cité des Congrès, Nantes, France
 
+{{< button-link label="Videos"
+                url="https://www.youtube.com/playlist?list=PLuZ_sYdawLiV1F3L5Gm-v8_Uk_e5VJmeP"
+                icon="youtube"
+                class="tertiary" >}}
+
 {{% /jumbo %}}
 
 {{% home-info what="Attendees:2100,Days:2,Sessions:69,Tracks:4,Speakers:90+" class="primary" %}}
@@ -56,14 +61,14 @@ It is aimed at students, professionals or simply curious techies.
         starts="2021-09-07"
         ends="2021-10-01"
         price="60€" >}}</a></li>
-<li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">
+<!-- <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">
         <div class="ticket">
                 <div class="ticket-name">
                         <span>Convert my voucher</span>
                         <span class="fake-input">ABC12</span>
                 </div>
         </div>
-</a></li>
+</a></li> -->
 </ul>
 
 <p class="caption">* Your two-days ticket (VAT included) gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.</p>

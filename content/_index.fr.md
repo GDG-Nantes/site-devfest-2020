@@ -12,6 +12,11 @@ menu:
 
 ### Cité des Congrès, Nantes, France
 
+{{< button-link label="Vidéos"
+                url="https://www.youtube.com/playlist?list=PLuZ_sYdawLiV1F3L5Gm-v8_Uk_e5VJmeP"
+                icon="youtube"
+                class="tertiary" >}}
+
 {{% /jumbo %}}
 
 {{% home-info what="Participants:2100,Journées:2,Conférences:69,Tracks:4,Speakers:90+" class="primary" %}}
@@ -55,14 +60,14 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
         starts="2021-09-07"
         ends="2021-10-01"
         price="60€" >}}</a></li>
-<li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">
+<!--<li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">
         <div class="ticket">
                 <div class="ticket-name">
                         <span>Convertir mon coupon</span>
                         <span class="fake-input">ABC12</span>
                 </div>
         </div>
-</a></li>
+</a></li>-->
 </ul>
 
 <p class="caption">* Votre billet deux jours (prix TTC) vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.</p>
