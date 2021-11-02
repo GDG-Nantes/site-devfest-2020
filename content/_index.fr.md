@@ -17,6 +17,10 @@ menu:
                 icon="youtube"
                 class="tertiary" >}}
 
+{{< button-link label="Photos"
+                url="https://photos.app.goo.gl/bEa1r4VVb5GLS4A77"
+                class="tertiary" >}}
+
 {{% /jumbo %}}
 
 {{% home-info what="Participants:2100,Journées:2,Conférences:69,Tracks:4,Speakers:90+" class="primary" %}}
