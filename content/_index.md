@@ -12,14 +12,17 @@ menu:
 
 ### Cité des Congrès, Nantes, France
 
+<div class="home-buttons">
 {{< button-link label="Videos"
                 url="https://www.youtube.com/playlist?list=PLuZ_sYdawLiV1F3L5Gm-v8_Uk_e5VJmeP"
                 icon="youtube"
                 class="tertiary" >}}
-                
+
 {{< button-link label="Photos"
                 url="https://photos.app.goo.gl/bEa1r4VVb5GLS4A77"
+                icon="photos"
                 class="tertiary" >}}
+</div>
 
 {{% /jumbo %}}
 
